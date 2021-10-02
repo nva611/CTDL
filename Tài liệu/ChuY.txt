@@ -1,0 +1,5 @@
+- Giá trị lớn nhất là giá trị >= tất cả giá trị.
+- Khai báo biến ở đầu 
+- double, int, long int, unsigned long 
+- Nhập mảng: a1 a2 .. a9 (enter) (1 chiều và 2 chiều)
+- int a[2][3]; mảng a kiểu nguyên có kích thước 2x3

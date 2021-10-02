@@ -1,0 +1,6 @@
+============ MẢNG ============
+
+- max của số chẵn, lẽ, nguyên tố... trong mảng
+- đếm ptu có các chữ số tăng dần
+- Tìm phần tử đầu tiên thỏa điều kiện
+- Kiểm tra mảng có đối xứng không (số ptu là chẵn || lẻ)
