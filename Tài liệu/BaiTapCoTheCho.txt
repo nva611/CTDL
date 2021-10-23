@@ -4,3 +4,8 @@
 - đếm ptu có các chữ số tăng dần
 - Tìm phần tử đầu tiên thỏa điều kiện
 - Kiểm tra mảng có đối xứng không (số ptu là chẵn || lẻ)
+
+
+
+đệ quy trong merge sort , trình bày. chia 2, chia 3 rồi trộn, sắp giảm dần (thực hành)
+cây đẹ quy là lý thuyết.
